@@ -1,15 +1,59 @@
-# 💫 About Me:
-# Hi, I'm Elvis 👋<br><br>👨‍💻 Aspiring Software Developer | React.js, Spring Boot, SQL<br><br>📍 Born and brought up in Mumbai, India  <br>🎓 Currently coding and learning full-stack web development  <br>🔭 Working on projects like YouTube Comment Analyzer and Library Management System  <br>⚡ I love solving problems and building software
+# Hi, I'm Elvis Titus Cherukara 👋
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elvis-titus-b77a6827b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tituselvis01@gmmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Elvis01112003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Elvis01112003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis01112003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 M.Sc. in Computer Applications student at Fergusson College, Pune  
+💻 Aspiring Software Developer | QA & Automation Enthusiast  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Elvis01112003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I am an aspiring Software Developer with hands-on experience in building web applications and working with both frontend and backend technologies. I enjoy solving real-world problems through code and continuously improving my development and testing skills.
+
+I have worked on end-to-end projects as well as frontend-focused applications, and I am currently seeking internship or fresher opportunities in software development or QA automation.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** Java, Python, JavaScript, SQL  
+- **Frontend:** HTML, CSS, React.js, EJS  
+- **Backend:** Node.js, Flask, Spring Boot  
+- **Database:** MySQL  
+- **Testing & Automation:** Selenium WebDriver  
+- **Tools:** Git, GitHub, VS Code, IntelliJ  
+- **Concepts:** OOP, DSA basics, REST APIs, MVC  
+
+---
+
+## 🚀 Projects
+
+### YouTube Comment Analyzer
+- Built a full-stack web application using Python and Flask  
+- Scraped YouTube comments using Selenium WebDriver  
+- Performed sentiment analysis using VADER Lexicon  
+- Generated CSV reports for analyzed comments  
+
+### Library Management System
+- Worked on frontend development  
+- Used HTML, CSS, JavaScript, and EJS  
+- Integrated frontend with Node.js and MySQL  
+
+### Hotel Management System
+- Worked on frontend and database design  
+- Used React.js for UI  
+- Backend with Spring Boot and MySQL  
+
+---
+
+## 🎯 Career Objective
+
+To start my career as a Software Developer or QA Engineer where I can apply my technical knowledge, improve my problem-solving skills, and contribute to building reliable and user-friendly software.
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://elvis-portfolio-orpin.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/elvis-titus-b77a6827b/  
+- 📧 Email: tituselvis01@gmail.com  
+- 🐙 GitHub: https://github.com/Elvis01112003
