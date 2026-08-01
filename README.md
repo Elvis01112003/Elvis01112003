@@ -17,7 +17,7 @@ Passionate about building scalable web applications and data-driven solutions. I
 - **Frontend:** HTML, CSS, React.js, EJS
 - **Backend:** Node.js, Flask, Spring Boot
 - **Database:** MySQL
-- **Data Engineering:** Pandas, ETL Basics, Data Cleaning, Data Processing
+- **Data Engineering:** Azure Data Factory (ADF), Databricks, ETL, Data Pipelines
 - **Testing:** Selenium WebDriver
 - **Tools:** Git, GitHub, VS Code, IntelliJ, Postman
 
