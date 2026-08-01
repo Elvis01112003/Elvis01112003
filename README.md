@@ -1,59 +1,138 @@
 # Hi, I'm Elvis Titus Cherukara 👋
 
-🎓 M.Sc. in Computer Applications student at Fergusson College, Pune  
-💻 Aspiring Software Developer | QA & Automation Enthusiast  
+🎓 M.Sc. in Computer Applications Student at Fergusson College, Pune  
+💻 Software Developer | Data Engineering Enthusiast | QA & Automation Learner
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an aspiring Software Developer with hands-on experience in building web applications and working with both frontend and backend technologies. I enjoy solving real-world problems through code and continuously improving my development and testing skills.
+I'm an aspiring Software Developer with a growing interest in **Data Engineering, Backend Development, and QA Automation**. I enjoy building scalable applications, designing efficient databases, and working with data to solve real-world problems.
 
-I have worked on end-to-end projects as well as frontend-focused applications, and I am currently seeking internship or fresher opportunities in software development or QA automation.
+My experience includes developing full-stack web applications, working with frontend and backend technologies, automating workflows using Selenium, and building projects involving data collection and analysis. I am continuously expanding my skills in data engineering concepts such as ETL pipelines, data processing, SQL optimization, and cloud-based data solutions.
+
+I'm currently seeking internship and entry-level opportunities in **Software Development, Data Engineering, or QA Automation**.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Java, Python, JavaScript, SQL  
-- **Frontend:** HTML, CSS, React.js, EJS  
-- **Backend:** Node.js, Flask, Spring Boot  
-- **Database:** MySQL  
-- **Testing & Automation:** Selenium WebDriver  
-- **Tools:** Git, GitHub, VS Code, IntelliJ  
-- **Concepts:** OOP, DSA basics, REST APIs, MVC  
+### 💻 Programming Languages
+- Java
+- Python
+- JavaScript
+- SQL
+
+### 🎨 Frontend
+- HTML5
+- CSS3
+- React.js
+- EJS
+
+### ⚙️ Backend
+- Node.js
+- Flask
+- Spring Boot
+- REST APIs
+
+### 🗄️ Databases
+- MySQL
+- Database Design
+- SQL Query Optimization
+
+### 📊 Data Engineering
+- ETL Fundamentals
+- Data Cleaning & Transformation
+- Data Processing with Python (Pandas)
+- CSV & JSON Data Handling
+- Data Pipelines (Basic)
+- Data Analysis
+- Data Modeling Fundamentals
+
+### 🤖 Testing & Automation
+- Selenium WebDriver
+- Test Automation
+- Manual Testing Basics
+
+### 🛠️ Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
+
+### 📚 Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- MVC Architecture
+- RESTful APIs
+- Version Control
+- Problem Solving
 
 ---
 
 ## 🚀 Projects
 
-### YouTube Comment Analyzer
-- Built a full-stack web application using Python and Flask  
-- Scraped YouTube comments using Selenium WebDriver  
-- Performed sentiment analysis using VADER Lexicon  
-- Generated CSV reports for analyzed comments  
+### 📊 YouTube Comment Analyzer
+**Tech Stack:** Python, Flask, Selenium, VADER, Pandas
 
-### Library Management System
-- Worked on frontend development  
-- Used HTML, CSS, JavaScript, and EJS  
-- Integrated frontend with Node.js and MySQL  
+- Developed a full-stack web application for YouTube comment analysis.
+- Automated comment extraction using Selenium WebDriver.
+- Performed sentiment analysis using VADER Lexicon.
+- Processed and analyzed data using Pandas.
+- Generated downloadable CSV reports.
 
-### Hotel Management System
-- Worked on frontend and database design  
-- Used React.js for UI  
-- Backend with Spring Boot and MySQL  
+---
+
+### 📚 Library Management System
+**Tech Stack:** Node.js, MySQL, HTML, CSS, JavaScript, EJS
+
+- Developed responsive frontend interfaces.
+- Connected frontend with backend services.
+- Integrated MySQL database for efficient data management.
+- Implemented CRUD functionality.
+
+---
+
+### 🏨 Hotel Management System
+**Tech Stack:** React.js, Spring Boot, MySQL
+
+- Developed responsive user interfaces using React.js.
+- Designed relational database schema.
+- Integrated frontend with Spring Boot backend.
+- Implemented hotel booking and management features.
 
 ---
 
 ## 🎯 Career Objective
 
-To start my career as a Software Developer or QA Engineer where I can apply my technical knowledge, improve my problem-solving skills, and contribute to building reliable and user-friendly software.
+To begin my professional career as a **Software Developer, Data Engineer, or QA Automation Engineer**, where I can leverage my programming, database, and problem-solving skills to build scalable applications and data-driven solutions while continuously learning modern technologies.
+
+---
+
+## 📈 Currently Learning
+
+- Apache Spark
+- Apache Kafka
+- Hadoop Ecosystem
+- Airflow
+- Docker
+- Azure Data Factory
+- Advanced SQL
+- Python for Data Engineering
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://elvis-portfolio-orpin.vercel.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/elvis-titus-b77a6827b/  
-- 📧 Email: tituselvis01@gmail.com  
-- 🐙 GitHub: https://github.com/Elvis01112003
+🌐 **Portfolio:** https://elvis-portfolio-orpin.vercel.app/
+
+💼 **LinkedIn:** https://www.linkedin.com/in/elvis-titus-b77a6827b/
+
+📧 **Email:** tituselvis01@gmail.com
+
+🐙 **GitHub:** https://github.com/Elvis01112003
+
+---
+
+⭐ *"Always learning, always building, and always striving to turn data into meaningful solutions."*
